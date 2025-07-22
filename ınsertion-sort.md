@@ -17,3 +17,11 @@ Aşamalar:
 
 Time Complexity:
 18 sayısı Average Case’e girer, çünkü ortalarda yer alır. 
+
+
+***[7,3,5,8,2,9,4,15,6] --->ilk 4 adım için: 
+
+1.[7,3,5,8,2,9,4,15,6] 
+2.[3,7,5,8,2,9,4,15,6]
+3.[3,5,7,8,2,9,4,15,6] 
+4.[2,3,5,7,8,9,4,15,6]   
